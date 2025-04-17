@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/school-pickup-planner/static/css/main.d90181c6.css",
+    "main.js": "/school-pickup-planner/static/js/main.b4908b7f.js",
+    "static/js/453.ad6c16fc.chunk.js": "/school-pickup-planner/static/js/453.ad6c16fc.chunk.js",
+    "index.html": "/school-pickup-planner/index.html",
+    "main.d90181c6.css.map": "/school-pickup-planner/static/css/main.d90181c6.css.map",
+    "main.b4908b7f.js.map": "/school-pickup-planner/static/js/main.b4908b7f.js.map",
+    "453.ad6c16fc.chunk.js.map": "/school-pickup-planner/static/js/453.ad6c16fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d90181c6.css",
+    "static/js/main.b4908b7f.js"
+  ]
+}
