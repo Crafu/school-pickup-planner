@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/school-pickup-planner/static/css/main.3c9ea219.css",
-    "main.js": "/school-pickup-planner/static/js/main.da52e8fb.js",
+    "main.css": "/school-pickup-planner/static/css/main.f602e695.css",
+    "main.js": "/school-pickup-planner/static/js/main.724ff4c7.js",
     "static/js/453.ad6c16fc.chunk.js": "/school-pickup-planner/static/js/453.ad6c16fc.chunk.js",
     "index.html": "/school-pickup-planner/index.html",
-    "main.3c9ea219.css.map": "/school-pickup-planner/static/css/main.3c9ea219.css.map",
-    "main.da52e8fb.js.map": "/school-pickup-planner/static/js/main.da52e8fb.js.map",
+    "main.f602e695.css.map": "/school-pickup-planner/static/css/main.f602e695.css.map",
+    "main.724ff4c7.js.map": "/school-pickup-planner/static/js/main.724ff4c7.js.map",
     "453.ad6c16fc.chunk.js.map": "/school-pickup-planner/static/js/453.ad6c16fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c9ea219.css",
-    "static/js/main.da52e8fb.js"
+    "static/css/main.f602e695.css",
+    "static/js/main.724ff4c7.js"
   ]
 }
